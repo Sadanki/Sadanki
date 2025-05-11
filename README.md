@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vignesh Sadanake
+# 👋 Hi, I'm Vignesh Sadanake
 
 ## 🚀 Aspiring DevOps & Cloud Engineer | Python Enthusiast | Open Source Contributor
 
