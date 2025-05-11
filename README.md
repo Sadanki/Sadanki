@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Hyderabad, India, 
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/vignesh-sadankae-1866b5218/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B0dOl87uFTTqi0%2F7WNPP%2BGA%3D%3D](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/vignesh-sadankae-1866b5218/](#)  
 - **Email:** [ vignesh.sadankae@gmail.com](mailto:your.email@example.com)
 
 Feel free to reach out for collaboration, discussions, or any exciting opportunities!
