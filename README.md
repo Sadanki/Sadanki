@@ -3,8 +3,8 @@
 # `$ whoami`
 
 ```yaml
-name: Vignesh Sadanki
-role: DevOps Engineer | Cloud Architect | Problem Solver | Software Developer
+name: Vignesh Sadankae
+role: Software Developer | Cloud Architect | Problem Solver | 
 location: Hyderabad, India
 company: ADP
 status: Automating Everything 🚀
@@ -15,60 +15,61 @@ motto: "If it can be automated, it will be automated"
 
 ---
 
-## 🎮 Take a Break - Play a Game!
+## 🎮 Take a Break - Play Super Mario!
 
 <div align="center">
 
-### 🍄 Super Mario Bros - Click to Play!
+### 🍄 SUPER MARIO BROS - Play Now!
 
-[![Play Mario](https://img.shields.io/badge/🍄_PLAY_SUPER_MARIO-Click_Here!-red?style=for-the-badge&logo=nintendo&logoColor=white)](https://supermarioplay.com/)
+<a href="https://supermarioplay.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Sadanki/Sadanki/main/mario-game.gif" alt="Super Mario Game" width="600px"/>
+</a>
 
-**🎮 Classic Nintendo game in your browser! Use arrow keys to move and spacebar to jump!**
+**🎮 Click the image above to play! Use ⬅️ ➡️ arrow keys to move and SPACE to jump!**
+
+<table>
+<tr>
+<td align="center">
+  
+### 🎮 [PLAY MARIO NOW](https://supermarioplay.com/)
+**Click to Start!**
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Or try these other quick browser games:**
+**🕹️ Or try these other quick games:**
 
 <table>
 <tr>
 <td align="center" width="25%">
 
 ### [🎯 2048](https://play2048.co/)
-Classic puzzle game!<br/>
-*Merge tiles to reach 2048*
+*Merge tiles puzzle*
 
 </td>
 <td align="center" width="25%">
 
-### [🕹️ T-Rex Run](https://chromedino.com/)
-Chrome's offline game<br/>
-*Jump over cacti!*
+### [🦖 T-Rex](https://chromedino.com/)
+*Chrome dino run*
 
 </td>
 <td align="center" width="25%">
 
 ### [🎮 Tetris](https://tetris.com/play-tetris)
-The classic!<br/>
-*Clear lines to score*
+*Classic blocks*
 
 </td>
 <td align="center" width="25%">
 
-### [🏃 Mario Run](https://www.freemario.net/)
-Endless runner<br/>
-*How far can you go?*
+### [🏃 Pac-Man](https://www.google.com/search?q=pac+man)
+*Google Pac-Man*
 
 </td>
 </tr>
 </table>
-
-**💡 Pro Tip:** Press `F12` in your browser and type `allow pasting`, then paste this in console for a surprise:
-```javascript
-// Easter egg - try it! 🎉
-console.log('%c🍄 It\'s-a me, Mario!', 'font-size: 24px; color: #E52521; font-weight: bold;');
-console.log('%c🚀 Welcome to my profile!', 'font-size: 20px; color: #00D9FF;');
-console.log('%c⚡ Let\'s-a go!', 'color: #FF6B6B; font-weight: bold;');
-```
 
 </div>
 
