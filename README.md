@@ -19,33 +19,44 @@ motto: "If it can be automated, it will be automated"
 
 <div align="center">
 
-### 🐍 Snake Game - Click to Play!
+### 🍄 Super Mario Bros - Click to Play!
 
-[![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+[![Play Mario](https://img.shields.io/badge/🍄_PLAY_SUPER_MARIO-Click_Here!-red?style=for-the-badge&logo=nintendo&logoColor=white)](https://supermarioplay.com/)
 
-**Or try these quick browser games:**
+**🎮 Classic Nintendo game in your browser! Use arrow keys to move and spacebar to jump!**
+
+---
+
+**Or try these other quick browser games:**
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### [🎯 2048](https://play2048.co/)
 Classic puzzle game!<br/>
 *Merge tiles to reach 2048*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### [🕹️ T-Rex Run](https://chromedino.com/)
 Chrome's offline game<br/>
 *Jump over cacti!*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### [🎮 Tetris](https://tetris.com/play-tetris)
 The classic!<br/>
 *Clear lines to score*
+
+</td>
+<td align="center" width="25%">
+
+### [🏃 Mario Run](https://www.freemario.net/)
+Endless runner<br/>
+*How far can you go?*
 
 </td>
 </tr>
@@ -54,8 +65,9 @@ The classic!<br/>
 **💡 Pro Tip:** Press `F12` in your browser and type `allow pasting`, then paste this in console for a surprise:
 ```javascript
 // Easter egg - try it! 🎉
+console.log('%c🍄 It\'s-a me, Mario!', 'font-size: 24px; color: #E52521; font-weight: bold;');
 console.log('%c🚀 Welcome to my profile!', 'font-size: 20px; color: #00D9FF;');
-console.log('%c⚡ Fun fact: This console is also code!', 'color: #FF6B6B;');
+console.log('%c⚡ Let\'s-a go!', 'color: #FF6B6B; font-weight: bold;');
 ```
 
 </div>
@@ -186,7 +198,7 @@ graph LR
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Insights
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sadanki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
@@ -197,6 +209,37 @@ graph LR
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sadanki&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </div>
+
+<details>
+<summary><b>📈 How to Track Your GitHub Traffic</b></summary>
+<br>
+
+### Built-in GitHub Insights (Free!)
+**Check your repo traffic:**
+1. Go to any of your repos
+2. Click **Insights** tab → **Traffic**
+3. See:
+   - 📊 Views & unique visitors (last 14 days)
+   - 🔗 Top referring sites
+   - 📁 Popular content
+   - 👥 Git clones
+
+### What the View Counter Shows:
+- ✅ Total profile page views
+- ✅ Increments each visit
+- ❌ Doesn't show WHO visited
+- ❌ No personal data (privacy)
+
+### Want More Analytics? Create a Portfolio Website!
+**Use these analytics tools:**
+- **Google Analytics** - Comprehensive, free
+- **Plausible** - Privacy-focused
+- **Umami** - Open-source, self-hosted
+- **Splitbee** - Simple & beautiful
+
+Then link it in your bio: `🌐 Portfolio: yoursite.com`
+
+</details>
 
 ---
 
@@ -416,7 +459,53 @@ while (alive) {
 }
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Sadanki&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+[![Profile Views](https://komarev.com/ghpvc/?username=Sadanki&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/Sadanki)
+
+### 📊 Want to Track Your Profile Analytics?
+
+<details>
+<summary><b>🔍 Click here to see analytics options</b></summary>
+<br>
+
+**GitHub doesn't show WHO visits your profile (privacy reasons), but you can track:**
+
+### Option 1: Google Analytics (Most Popular)
+1. Create account at [Google Analytics](https://analytics.google.com/)
+2. Add tracking to your portfolio website
+3. Track visitors, location, time spent, etc.
+
+### Option 2: GitHub Insights (Built-in)
+- Go to your repos → **Insights** tab
+- See traffic, clones, popular content
+- Shows referring sites and popular pages
+
+### Option 3: LinkedIn for Professional Tracking
+- LinkedIn Premium shows who viewed your profile
+- Connect your GitHub in LinkedIn bio
+- Track professional visitors
+
+### Option 4: Personal Website with Analytics
+Create a personal portfolio site with:
+- Google Analytics
+- Plausible Analytics (privacy-friendly)
+- Umami Analytics (open-source)
+
+**📌 What you CAN track:**
+- ✅ Total view count (current counter)
+- ✅ Which repos are most popular (GitHub Insights)
+- ✅ Traffic sources (Insights → Traffic)
+- ✅ Geographic regions (if you use analytics on your site)
+
+**❌ What you CANNOT track (GitHub privacy):**
+- ❌ Individual visitor names/profiles
+- ❌ What specific sections they viewed
+- ❌ How long they stayed on your profile
+- ❌ Their GitHub usernames
+
+**💡 Best Practice:**
+Focus on making your profile SO GOOD that people star your repos, follow you, or reach out directly! That's better than analytics 🚀
+
+</details>
 
 ---
 
