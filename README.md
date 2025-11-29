@@ -13,6 +13,55 @@ motto: "If it can be automated, it will be automated"
 
 </div>
 
+---
+
+## 🎮 Take a Break - Play a Game!
+
+<div align="center">
+
+### 🐍 Snake Game - Click to Play!
+
+[![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+
+**Or try these quick browser games:**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### [🎯 2048](https://play2048.co/)
+Classic puzzle game!<br/>
+*Merge tiles to reach 2048*
+
+</td>
+<td align="center" width="33%">
+
+### [🕹️ T-Rex Run](https://chromedino.com/)
+Chrome's offline game<br/>
+*Jump over cacti!*
+
+</td>
+<td align="center" width="33%">
+
+### [🎮 Tetris](https://tetris.com/play-tetris)
+The classic!<br/>
+*Clear lines to score*
+
+</td>
+</tr>
+</table>
+
+**💡 Pro Tip:** Press `F12` in your browser and type `allow pasting`, then paste this in console for a surprise:
+```javascript
+// Easter egg - try it! 🎉
+console.log('%c🚀 Welcome to my profile!', 'font-size: 20px; color: #00D9FF;');
+console.log('%c⚡ Fun fact: This console is also code!', 'color: #FF6B6B;');
+```
+
+</div>
+
+---
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=DevOps+%7C+Cloud+%7C+Automation+Architect;From+Compliance+to+Containers;Building+%7C+Breaking+%7C+Deploying;LeetCode+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Turning+Coffee+into+Kubernetes+Clusters+☕️→☸️)
@@ -62,6 +111,7 @@ graph LR
 - System Design at Scale
 - Terraform Advanced Modules
 - Microservices Architecture
+- .NET Core Development
 
 </td>
 </tr>
@@ -105,14 +155,16 @@ graph LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -120,10 +172,15 @@ graph LR
 ### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🌱 Currently Learning
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagram&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00D9FF?style=for-the-badge&logo=microservices&logoColor=white)
 
 </div>
 
@@ -147,27 +204,47 @@ graph LR
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sadanki?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/Sadanki)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/GreedyStartIdx?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/GreedyStartIdx/)
 
 </div>
 
-### 🎯 Problem Solving Patterns Mastery
+### 🎯 Problem Solving Journey
 
 ```python
-class ProblemSolver:
+class GreedyStartIdx:
     def __init__(self):
-        self.patterns = {
-            'Sliding Window': {'solved': 5, 'level': '⭐⭐⭐⭐☆'},
-            'Two Pointers': {'solved': 8, 'level': '⭐⭐⭐⭐⭐'},
-            'Tree Traversal': {'solved': 10, 'level': '⭐⭐⭐⭐☆'},
-            'Stack & Queue': {'solved': 7, 'level': '⭐⭐⭐⭐☆'},
-            'Dynamic Programming': {'solved': 6, 'level': '⭐⭐⭐☆☆'},
-            'Backtracking': {'solved': 4, 'level': '⭐⭐⭐☆☆'}
-        }
+        self.username = "GreedyStartIdx"
+        self.total_solved = 75  # Update as you solve more!
+        self.languages = ["Java", "Python", "JavaScript"]
+        self.favorite_pattern = "Greedy Algorithms 🎯"
+        
+    def solve_daily(self):
+        self.total_solved += 1
+        return "One problem at a time, one day at a time 💪"
     
-    def keep_grinding(self):
-        return "One problem at a time 🎯"
+    def motivation(self):
+        return "Consistency > Perfection"
 ```
+
+### 📈 Progress Tracker
+
+| Category | Problems Solved | Status |
+|----------|----------------|---------|
+| 🟢 Easy | 30+ | ⭐⭐⭐⭐⭐ |
+| 🟡 Medium | 35+ | ⭐⭐⭐⭐☆ |
+| 🔴 Hard | 10+ | ⭐⭐⭐☆☆ |
+
+### 🎨 Pattern Mastery
+
+| Pattern | Solved | Confidence |
+|---------|--------|------------|
+| 🎯 Greedy Algorithms | 12+ | ⭐⭐⭐⭐⭐ |
+| 🪟 Sliding Window | 8+ | ⭐⭐⭐⭐☆ |
+| 🔗 Two Pointers | 10+ | ⭐⭐⭐⭐⭐ |
+| 🌳 Tree Traversal | 15+ | ⭐⭐⭐⭐☆ |
+| 📚 Stack & Queue | 10+ | ⭐⭐⭐⭐☆ |
+| 🔄 Dynamic Programming | 8+ | ⭐⭐⭐☆☆ |
+| 🎒 Backtracking | 6+ | ⭐⭐⭐☆☆ |
 
 ---
 
@@ -318,9 +395,9 @@ mindmap
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadanki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-sadanki)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sadanki190@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sadanki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-sadankae-1866b5218/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadanki190@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GreedyStartIdx/)
 
 </div>
 
