@@ -3,8 +3,8 @@
 # `$ whoami`
 
 ```yaml
-name: Vignesh Sadankae
-role: Software Developer | Cloud Architect | Problem Solver | 
+name: Vignesh Sadanki
+role: DevOps Engineer | Cloud Architect | Problem Solver | Software Developer
 location: Hyderabad, India
 company: ADP
 status: Automating Everything 🚀
