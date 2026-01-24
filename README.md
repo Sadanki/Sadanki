@@ -1,521 +1,232 @@
 <div align="center">
 
-# `$ whoami`
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vignesh%20Sadanake&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Python%20%7C%20Open%20Source&descAlignY=55&descSize=20" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Building+Cloud+Architectures+%E2%98%81%EF%B8%8F;Automating+DevOps+Workflows+%F0%9F%9A%80;Crafting+Python+Solutions+%F0%9F%90%8D;Contributing+to+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social Badges with Glow Effect -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/vignesh-sadankae-1866b5218/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vignesh.sadankae@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Sadanki)
+[![Location](https://img.shields.io/badge/Hyderabad-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/india)
+
+<br/>
+
+<!-- Profile Views & Stars -->
+![](https://komarev.com/ghpvc/?username=Sadanki&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Sadanki?style=for-the-badge&color=blue)](https://github.com/Sadanki?tab=followers)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 About Me
+
+</div>
 
 ```yaml
-name: Vignesh Sadanki
-role: DevOps Engineer | Cloud Architect | Problem Solver | Software Developer
-location: Hyderabad, India
-company: ADP
-status: Automating Everything 🚀
-motto: "If it can be automated, it will be automated"
+name: Vignesh Sadanake
+located_in: Hyderabad, India
+current_workplace: ADP
+education: ["B.Tech in Computer Science"]
+fields_of_interests:
+  - DevOps Engineering
+  - Cloud Architecture
+  - Infrastructure as Code
+  - CI/CD Automation
+  - Python Development
+  - Open Source Contribution
+currently_learning: ["Kubernetes", "Terraform", "AWS Advanced", "System Design"]
+hobbies: ["Problem Solving", "Cloud Labs", "Tech Blogs", "Open Source"]
 ```
 
-</div>
-
----
-
-## 🎮 Take a Break - Play Super Mario!
-
 <div align="center">
 
-### 🍄 SUPER MARIO BROS - Play Now!
+## 🛠️ Technology Arsenal
 
-<a href="https://supermarioplay.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Sadanki/Sadanki/main/mario-game.gif" alt="Super Mario Game" width="600px"/>
-</a>
+### **Languages & Frameworks**
 
-**🎮 Click the image above to play! Use ⬅️ ➡️ arrow keys to move and SPACE to jump!**
-
-<table>
-<tr>
-<td align="center">
-  
-### 🎮 [PLAY MARIO NOW](https://supermarioplay.com/)
-**Click to Start!**
-
-</td>
-</tr>
-</table>
-
----
-
-**🕹️ Or try these other quick games:**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### [🎯 2048](https://play2048.co/)
-*Merge tiles puzzle*
-
-</td>
-<td align="center" width="25%">
-
-### [🦖 T-Rex](https://chromedino.com/)
-*Chrome dino run*
-
-</td>
-<td align="center" width="25%">
-
-### [🎮 Tetris](https://tetris.com/play-tetris)
-*Classic blocks*
-
-</td>
-<td align="center" width="25%">
-
-### [🏃 Pac-Man](https://www.google.com/search?q=pac+man)
-*Google Pac-Man*
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=DevOps+%7C+Cloud+%7C+Automation+Architect;From+Compliance+to+Containers;Building+%7C+Breaking+%7C+Deploying;LeetCode+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Turning+Coffee+into+Kubernetes+Clusters+☕️→☸️)
-
-</div>
-
----
-
-## 🎯 Current Mission
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[☕ Coffee] --> B[💻 Code]
-    B --> C[🧪 Test]
-    C --> D[🚀 Deploy]
-    D --> E[📊 Monitor]
-    E --> F[🔄 Optimize]
-    F --> A
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-    style F fill:#DFE6E9
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 What I'm Building
-- **TravelMemory** - Full-stack MERN app with CI/CD
-- **AWS Cost Dashboard** - Real-time monitoring & alerts
-- **LeetCode Arsenal** - 100+ solutions in production-ready code
-- **Automation Scripts** - Because manual is so 2019
-
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- Advanced Kubernetes Patterns
-- System Design at Scale
-- Terraform Advanced Modules
-- Microservices Architecture
-- .NET Core Development
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Journey
-
-```diff
-@@ Work Experience @@
-+ ADP (2019 - Present) | Analyst
-  # Automated compliance operations → 40% efficiency gain
-  # Built internal dashboards → Improved client satisfaction
-  # Led GPT integration → Streamlined workflows
-  # Tech-driven process improvements → Cross-team impact
-```
-
-<details>
-<summary>📚 <b>Education & Certifications</b></summary>
-<br>
-
-| Institution | Degree | Year |
-|------------|---------|------|
-| **BITS Pilani** | M.Sc. Information Systems | 2024 |
-| **St. Joseph's College** | B.Sc. Computer Science | 2019 |
-
-**Certifications:** 
-- ✅ DevOps & Cloud Engineering
-
-</details>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🔧 Tools & Platforms
+### **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🌱 Currently Learning
-
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagram&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00D9FF?style=for-the-badge&logo=microservices&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Insights
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sadanki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadanki&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sadanki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadanki&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sadanki&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sadanki&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+
 </div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sadanki&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
-
-<details>
-<summary><b>📈 How to Track Your GitHub Traffic</b></summary>
-<br>
-
-### Built-in GitHub Insights (Free!)
-**Check your repo traffic:**
-1. Go to any of your repos
-2. Click **Insights** tab → **Traffic**
-3. See:
-   - 📊 Views & unique visitors (last 14 days)
-   - 🔗 Top referring sites
-   - 📁 Popular content
-   - 👥 Git clones
-
-### What the View Counter Shows:
-- ✅ Total profile page views
-- ✅ Increments each visit
-- ❌ Doesn't show WHO visited
-- ❌ No personal data (privacy)
-
-### Want More Analytics? Create a Portfolio Website!
-**Use these analytics tools:**
-- **Google Analytics** - Comprehensive, free
-- **Plausible** - Privacy-focused
-- **Umami** - Open-source, self-hosted
-- **Splitbee** - Simple & beautiful
-
-Then link it in your bio: `🌐 Portfolio: yoursite.com`
-
-</details>
 
 ---
 
-## 🧩 LeetCode Chronicles
-
 <div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/GreedyStartIdx?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/GreedyStartIdx/)
-
-</div>
-
-### 🎯 Problem Solving Journey
-
-```python
-class GreedyStartIdx:
-    def __init__(self):
-        self.username = "GreedyStartIdx"
-        self.total_solved = 75  # Update as you solve more!
-        self.languages = ["Java", "Python", "JavaScript"]
-        self.favorite_pattern = "Greedy Algorithms 🎯"
-        
-    def solve_daily(self):
-        self.total_solved += 1
-        return "One problem at a time, one day at a time 💪"
-    
-    def motivation(self):
-        return "Consistency > Perfection"
-```
-
-### 📈 Progress Tracker
-
-| Category | Problems Solved | Status |
-|----------|----------------|---------|
-| 🟢 Easy | 30+ | ⭐⭐⭐⭐⭐ |
-| 🟡 Medium | 35+ | ⭐⭐⭐⭐☆ |
-| 🔴 Hard | 10+ | ⭐⭐⭐☆☆ |
-
-### 🎨 Pattern Mastery
-
-| Pattern | Solved | Confidence |
-|---------|--------|------------|
-| 🎯 Greedy Algorithms | 12+ | ⭐⭐⭐⭐⭐ |
-| 🪟 Sliding Window | 8+ | ⭐⭐⭐⭐☆ |
-| 🔗 Two Pointers | 10+ | ⭐⭐⭐⭐⭐ |
-| 🌳 Tree Traversal | 15+ | ⭐⭐⭐⭐☆ |
-| 📚 Stack & Queue | 10+ | ⭐⭐⭐⭐☆ |
-| 🔄 Dynamic Programming | 8+ | ⭐⭐⭐☆☆ |
-| 🎒 Backtracking | 6+ | ⭐⭐⭐☆☆ |
-
----
 
 ## 🚀 Featured Projects
 
-<div align="center">
+</div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
-### [🌍 TravelMemory](https://github.com/Sadanki/TravelMemory)
-**Full-Stack MERN Application**
-- 📸 Capture & share travel moments
-- ☁️ Cloud deployment with CI/CD
-- 🔄 Automated testing & deployment
-- 📊 Real-time data synchronization
+### 🔧 [AWS DevOps Setup](https://github.com/Sadanki/aws-devops-setup)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-`MongoDB` `Express` `React` `Node.js` `AWS`
+Complete AWS infrastructure automation with DevOps best practices. Infrastructure as Code implementation using modern tooling.
+
+**Key Features:**
+- Infrastructure as Code
+- Automated deployments
+- Security configurations
+- Monitoring setup
 
 </td>
 <td width="50%">
 
-### [📊 AWS Cost Dashboard](https://github.com/Sadanki/Devops_Cloud_Eng_Vignesh)
-**DevOps Monitoring Solution**
-- 💰 Real-time cost tracking
-- 📈 Resource usage analytics  
-- 🚨 Automated alerts & notifications
-- 📉 Time-series data visualization
+### 🔄 [CI/CD Project](https://github.com/Sadanki/ci-cd-project)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-`AWS` `Grafana` `Python` `Terraform`
+Automated CI/CD pipeline demonstrating modern DevOps practices with automated testing, builds, and deployment workflows.
+
+**Key Features:**
+- Automated testing
+- Build pipelines
+- Deployment automation
+- Quality gates
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [🤖 HR-Chatbot](https://github.com/Sadanki/HR-Chatbot)
-**Intelligent Automation**
-- 💬 AI-powered HR assistance
-- 🔄 Streamlined HR processes
-- 📝 Automated query resolution
-- 🎯 Enhanced employee experience
+### 🤖 [HR Chatbot](https://github.com/Sadanki/HR-Chatbot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-`Python` `NLP` `Machine Learning`
+Intelligent chatbot solution for HR processes, leveraging NLP and automation to streamline HR operations.
+
+**Key Features:**
+- Natural Language Processing
+- Automated responses
+- Employee assistance
+- Process automation
 
 </td>
 <td width="50%">
 
-### [💡 LeetCode 2025](https://github.com/Sadanki/leetcode_2025)
-**Algorithmic Solutions Library**
-- 🧠 100+ problems solved
-- 🎨 Multiple language implementations
-- 📚 Detailed explanations
-- 🔍 Pattern-based organization
+### 💻 [LeetCode 2025](https://github.com/Sadanki/leetcode_2025)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-`Java` `Python` `JavaScript`
+Collection of coding interview problems and solutions. Documenting the journey through algorithmic challenges.
+
+**Key Features:**
+- 50+ problems solved
+- Optimized solutions
+- Detailed explanations
+- Interview prep
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadanki&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
+## 🏆 GitHub Achievements
+
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadanki&theme=radical)
+
+## 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
 
-## 📈 Contribution Heatmap
-
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadanki&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sadanki&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📝 Latest Thoughts & Writings
-
-<!-- BLOG-POST-LIST:START -->
-> 🔄 **Coming Soon**: How I Automated My Entire Development Workflow
-> 
-> 🔄 **Coming Soon**: From LeetCode to Production - Deploying Algorithms as Microservices
->
-> 🔄 **Coming Soon**: Kubernetes Concepts Explained Through Binary Trees
->
-> 🔄 **Coming Soon**: AWS Cost Optimization - The Complete Guide
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎨 System Design Philosophy
-
-<div align="center">
+## 🎓 Current Focus
 
 ```mermaid
-mindmap
-  root((DevOps<br/>Mindset))
-    Automate
-      CI/CD Pipelines
-      Infrastructure as Code
-      Monitoring & Alerts
-    Scale
-      Container Orchestration
-      Load Balancing
-      Auto-scaling
-    Optimize
-      Cost Management
-      Performance Tuning
-      Resource Allocation
-    Secure
-      IAM & Access Control
-      Secrets Management
-      Network Security
+graph LR
+    A[Learning] --> B[Kubernetes]
+    A --> C[Terraform]
+    A --> D[AWS Solutions Architect]
+    B --> E[Production Ready]
+    C --> E
+    D --> E
+    E --> F[Cloud Native Expert]
+    style A fill:#00D9FF
+    style F fill:#FF6B6B
 ```
 
 </div>
 
 ---
 
-## 🎯 2025 Goals Tracker
-
 <div align="center">
 
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🧩 Solve 200+ LeetCode Problems | `███████░░░` 75/200 | 🔥 In Progress |
-| ☁️ AWS Solutions Architect Cert | `████████░░` 80% | 📚 Studying |
-| 📝 Publish 12 Technical Blogs | `██░░░░░░░░` 2/12 | ✍️ Writing |
-| 🚀 Deploy 5 Production Projects | `██████░░░░` 3/5 | 🛠️ Building |
-| 🌟 Contribute to 10 Open Source Projects | `████░░░░░░` 4/10 | 🤝 Active |
+### 💬 Let's Connect and Build Something Amazing!
+
+> **"The best way to predict the future is to implement it."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
 
----
-
-## 📫 Let's Connect & Build Something Amazing!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadanki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-sadankae-1866b5218/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadanki190@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GreedyStartIdx/)
-
-</div>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadanki/Sadanki/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadanki/Sadanki/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sadanki/Sadanki/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 <div align="center">
 
-### 💭 Daily Mantra
-
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Sadanki&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/Sadanki)
-
-### 📊 Want to Track Your Profile Analytics?
-
-<details>
-<summary><b>🔍 Click here to see analytics options</b></summary>
-<br>
-
-**GitHub doesn't show WHO visits your profile (privacy reasons), but you can track:**
-
-### Option 1: Google Analytics (Most Popular)
-1. Create account at [Google Analytics](https://analytics.google.com/)
-2. Add tracking to your portfolio website
-3. Track visitors, location, time spent, etc.
-
-### Option 2: GitHub Insights (Built-in)
-- Go to your repos → **Insights** tab
-- See traffic, clones, popular content
-- Shows referring sites and popular pages
-
-### Option 3: LinkedIn for Professional Tracking
-- LinkedIn Premium shows who viewed your profile
-- Connect your GitHub in LinkedIn bio
-- Track professional visitors
-
-### Option 4: Personal Website with Analytics
-Create a personal portfolio site with:
-- Google Analytics
-- Plausible Analytics (privacy-friendly)
-- Umami Analytics (open-source)
-
-**📌 What you CAN track:**
-- ✅ Total view count (current counter)
-- ✅ Which repos are most popular (GitHub Insights)
-- ✅ Traffic sources (Insights → Traffic)
-- ✅ Geographic regions (if you use analytics on your site)
-
-**❌ What you CANNOT track (GitHub privacy):**
-- ❌ Individual visitor names/profiles
-- ❌ What specific sections they viewed
-- ❌ How long they stayed on your profile
-- ❌ Their GitHub usernames
-
-**💡 Best Practice:**
-Focus on making your profile SO GOOD that people star your repos, follow you, or reach out directly! That's better than analytics 🚀
-
-</details>
-
----
-
-### ⚡ Fun Fact
-
-**I can deploy a Kubernetes cluster faster than I can decide what to have for lunch** 🚀🥗
-
----
-
-<sub>Built with ❤️ and ☕ | Last Updated: Auto-sync via GitHub Actions</sub>
+**Made with ❤️ and ☕ | Last Updated: January 2025**
 
 </div>
