@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vignesh%20Sadanake&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Python%20%7C%20Open%20Source&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vignesh%20Sadanake&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Java%20%7C%20.NET%20%7C%20Open%20Source&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Building+Cloud+Architectures+%E2%98%81%EF%B8%8F;Automating+DevOps+Workflows+%F0%9F%9A%80;Crafting+Python+Solutions+%F0%9F%90%8D;Contributing+to+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=AWS+%7C+Java+%7C+.NET+Open+Source+Contributor;Building+Cloud+Architectures+%E2%98%81%EF%B8%8F;Automating+DevOps+Workflows+%F0%9F%9A%80;Crafting+Enterprise+Solutions+%F0%9F%92%BC" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -34,13 +34,14 @@
 name: Vignesh Sadanake
 located_in: Hyderabad, India
 current_workplace: ADP
-education: ["B.Tech in Computer Science"]
+education: ["M.Sc Information System"]
 fields_of_interests:
   - DevOps Engineering
   - Cloud Architecture
   - Infrastructure as Code
   - CI/CD Automation
-  - Python Development
+  - Java
+  - .NET using C#
   - Open Source Contribution
 currently_learning: ["Kubernetes", "Terraform", "AWS Advanced", "System Design"]
 hobbies: ["Problem Solving", "Cloud Labs", "Tech Blogs", "Open Source"]
@@ -52,8 +53,10 @@ hobbies: ["Problem Solving", "Cloud Labs", "Tech Blogs", "Open Source"]
 
 ### **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -136,30 +139,30 @@ Automated CI/CD pipeline demonstrating modern DevOps practices with automated te
 <tr>
 <td width="50%">
 
-### 🤖 [HR Chatbot](https://github.com/Sadanki/HR-Chatbot)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 📱 [Contact Management App](https://github.com/Sadanki/ContactManagementApp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-Intelligent chatbot solution for HR processes, leveraging NLP and automation to streamline HR operations.
+Full-featured contact management application built with enterprise-grade architecture and modern design patterns.
 
 **Key Features:**
-- Natural Language Processing
-- Automated responses
-- Employee assistance
-- Process automation
+- CRUD operations
+- Search & filter
+- Data persistence
+- Clean architecture
 
 </td>
 <td width="50%">
 
-### 💻 [LeetCode 2025](https://github.com/Sadanki/leetcode_2025)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### 📚 [Library Management System](https://github.com/Sadanki/LibraryManagementSystem)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-Collection of coding interview problems and solutions. Documenting the journey through algorithmic challenges.
+Comprehensive library management solution with user authentication, book tracking, and inventory management.
 
 **Key Features:**
-- 50+ problems solved
-- Optimized solutions
-- Detailed explanations
-- Interview prep
+- User authentication
+- Book inventory
+- Issue/Return tracking
+- Report generation
 
 </td>
 </tr>
@@ -215,13 +218,6 @@ graph LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadanki/Sadanki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadanki/Sadanki/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sadanki/Sadanki/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
